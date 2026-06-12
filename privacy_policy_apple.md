@@ -3,7 +3,7 @@
 **APRS Tracker Pro** — iOS, iPadOS, macOS & watchOS
 
 **Developer / Geliştirici:** Fatih ÖNDER (TB1TFO) — ALGSoft Inc.
-**Contact / İletişim:** fatih@radio.org.tr — https://algsoft.net.tr
+**Contact / İletişim:** info@algsoft.net.tr — https://algsoft.net.tr
 **Last updated / Son güncelleme:** June 12, 2026 / 12 Haziran 2026
 
 ---
